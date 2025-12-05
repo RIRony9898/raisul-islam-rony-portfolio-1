@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Portfolio Banner" src="https://i.ibb.co.com/8DGfP054/Portfolio-banner-image.png" />
+<img width="1200" height="475" alt="Portfolio Banner" src="[https://i.ibb.co.com/8DGfP054/Portfolio-banner-image.png](https://i.ibb.co.com/8DGfP054/Portfolio-banner-image.png)" />
 </div>
 
 # Raisul Islam Rony Portfolio
